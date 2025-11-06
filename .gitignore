@@ -1,0 +1,12 @@
+﻿Library
+Temp
+Logs
+UserSettings
+obj/Debug
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+.idea
+Builds
+fmod_editor.log
+*.csproj
+SlimeTetris.sln
