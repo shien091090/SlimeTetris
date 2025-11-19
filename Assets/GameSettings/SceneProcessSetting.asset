@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3bc5697330cb624493f55ce0b25b2b7, type: 3}
+  m_Name: SceneProcessSetting
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: sceneNameDefines
+      Entry: 7
+      Data: 0|SNShien.Common.ProcessTools.SceneNameSetting[], SNShien
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: 1|SNShien.Common.ProcessTools.SceneNameSetting, SNShien
+    - Name: sceneName
+      Entry: 1
+      Data: InitScene
+    - Name: sceneBundlePath
+      Entry: 6
+      Data: 
+    - Name: sceneResourceType
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|SNShien.Common.ProcessTools.SceneNameSetting, SNShien
+    - Name: sceneName
+      Entry: 1
+      Data: TetrisGameScene
+    - Name: sceneBundlePath
+      Entry: 6
+      Data: 
+    - Name: sceneResourceType
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: sceneRepositionSettings
+      Entry: 7
+      Data: 3|SNShien.Common.ProcessTools.SceneRepositionSetting[], SNShien
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 4|SNShien.Common.ProcessTools.SceneRepositionSetting, SNShien
+    - Name: repositionActionKey
+      Entry: 1
+      Data: EnterTetrisGame
+    - Name: loadSceneName
+      Entry: 1
+      Data: TetrisGameScene
+    - Name: unloadSceneName
+      Entry: 1
+      Data: '{Empty}'
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
